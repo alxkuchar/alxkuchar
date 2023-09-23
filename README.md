@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **PHP**
 
-- 👨‍💻 All of my projects are available at [https://alxzr.cloud/](https://alxzr.cloud/)
+- 👨‍💻 All of my projects are available at [https://alxzr.cloud/](https://alxzr.cloud/) (Available soon)
 
-- 📝 I regularly write articles on [https://alxzr.cloud/blog/](https://alxzr.cloud/blog/)
+- 📝 I regularly write articles on [https://alxzr.cloud/blog/](https://alxzr.cloud/blog/) (Available soon)
 
 - 📫 How to reach me **alex@alxzr.cloud**
 
